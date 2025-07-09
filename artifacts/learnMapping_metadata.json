@@ -8,17 +8,12 @@
 			{
 				"inputs": [
 					{
-						"internalType": "uint256",
-						"name": "a",
-						"type": "uint256"
-					},
-					{
-						"internalType": "uint256",
-						"name": "b",
-						"type": "uint256"
+						"internalType": "address",
+						"name": "",
+						"type": "address"
 					}
 				],
-				"name": "multiply",
+				"name": "myMap",
 				"outputs": [
 					{
 						"internalType": "uint256",
@@ -43,7 +38,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"calculator.sol": "Calculator"
+			"mapping.sol": "learnMapping"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -57,12 +52,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"calculator.sol": {
-			"keccak256": "0xc71952fb6b8566bb9bbdd94e0a7f5c8ec871db2717e5861e38cda153de707bff",
+		"mapping.sol": {
+			"keccak256": "0xb30d63f168ea44a9a0511cc9f64c8da37140eef7c2224d8f89e5f69f4ae597c6",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://10854a5e1ff3dae98895b87094bfbdfa11806da038587956e228bb30020e981f",
-				"dweb:/ipfs/QmNhjjhENUvpvYFUFFjTaKG9LxCAYzVg4QH9aoXYi33jGn"
+				"bzz-raw://9ef78f39ac09f6224eaaad1b5e072b5fa0cb1a179072f4bcc1513d4bfd7a6bf6",
+				"dweb:/ipfs/QmaNr9ei3GDZi69fNZRHQ5heAFFHYpT6PExWszKrhVfp1z"
 			]
 		}
 	},

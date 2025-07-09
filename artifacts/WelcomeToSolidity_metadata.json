@@ -6,19 +6,13 @@
 	"output": {
 		"abi": [
 			{
-				"inputs": [
-					{
-						"internalType": "uint256",
-						"name": "a",
-						"type": "uint256"
-					},
-					{
-						"internalType": "uint256",
-						"name": "b",
-						"type": "uint256"
-					}
-				],
-				"name": "multiply",
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "getResult",
 				"outputs": [
 					{
 						"internalType": "uint256",
@@ -43,7 +37,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"calculator.sol": "Calculator"
+			"welcome-solidity.sol": "WelcomeToSolidity"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -57,12 +51,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"calculator.sol": {
-			"keccak256": "0xc71952fb6b8566bb9bbdd94e0a7f5c8ec871db2717e5861e38cda153de707bff",
+		"welcome-solidity.sol": {
+			"keccak256": "0x54b7a87b1345842e9518eae4d4c1f8a079a06e3525211f64517a681a5af49024",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://10854a5e1ff3dae98895b87094bfbdfa11806da038587956e228bb30020e981f",
-				"dweb:/ipfs/QmNhjjhENUvpvYFUFFjTaKG9LxCAYzVg4QH9aoXYi33jGn"
+				"bzz-raw://61156ca2f2426d8f8697a36e3c38a540f6d840ee32a0569aaf42c12f757c6d03",
+				"dweb:/ipfs/QmaXyXMFjH2Yv58XtaBNjG8qw8Syfzaf15yeKjugi1FePQ"
 			]
 		}
 	},

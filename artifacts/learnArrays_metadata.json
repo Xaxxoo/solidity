@@ -9,16 +9,49 @@
 				"inputs": [
 					{
 						"internalType": "uint256",
-						"name": "a",
-						"type": "uint256"
-					},
-					{
-						"internalType": "uint256",
-						"name": "b",
+						"name": "",
 						"type": "uint256"
 					}
 				],
-				"name": "multiply",
+				"name": "myArray",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "myArray2",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "myArray3",
 				"outputs": [
 					{
 						"internalType": "uint256",
@@ -43,7 +76,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"calculator.sol": "Calculator"
+			"arrarys.sol": "learnArrays"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -57,12 +90,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"calculator.sol": {
-			"keccak256": "0xc71952fb6b8566bb9bbdd94e0a7f5c8ec871db2717e5861e38cda153de707bff",
+		"arrarys.sol": {
+			"keccak256": "0x1f16c35556f7bdf1f4e0f0c12b2a9658eb9de2e0733bf66c036f8a0c43b9ba9e",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://10854a5e1ff3dae98895b87094bfbdfa11806da038587956e228bb30020e981f",
-				"dweb:/ipfs/QmNhjjhENUvpvYFUFFjTaKG9LxCAYzVg4QH9aoXYi33jGn"
+				"bzz-raw://b6dba2f2fd4cc0d176b2a50728d90ac5cd97cbc4f187e601a8a454caa3a64896",
+				"dweb:/ipfs/QmcD5UmPNSJ8wWHvTtGMXAGwx7Hc5SDiuhRFGL8xsqQEnm"
 			]
 		}
 	},

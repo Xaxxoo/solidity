@@ -6,19 +6,8 @@
 	"output": {
 		"abi": [
 			{
-				"inputs": [
-					{
-						"internalType": "uint256",
-						"name": "a",
-						"type": "uint256"
-					},
-					{
-						"internalType": "uint256",
-						"name": "b",
-						"type": "uint256"
-					}
-				],
-				"name": "multiply",
+				"inputs": [],
+				"name": "airdrop",
 				"outputs": [
 					{
 						"internalType": "uint256",
@@ -43,7 +32,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"calculator.sol": "Calculator"
+			"decision.sol": "Decision"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -57,12 +46,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"calculator.sol": {
-			"keccak256": "0xc71952fb6b8566bb9bbdd94e0a7f5c8ec871db2717e5861e38cda153de707bff",
+		"decision.sol": {
+			"keccak256": "0xb1fb629510a313604293bcf8a617597113b700fc2583ea8a3236cf97f2d263e4",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://10854a5e1ff3dae98895b87094bfbdfa11806da038587956e228bb30020e981f",
-				"dweb:/ipfs/QmNhjjhENUvpvYFUFFjTaKG9LxCAYzVg4QH9aoXYi33jGn"
+				"bzz-raw://397a9aa1c3cc1ddb412921b0c41766af52d7e122a382be2cf688fda5a3a9ccef",
+				"dweb:/ipfs/QmY1JfPbNSjGqS3xxFdsdDHthAZua9YJjvFfMzFyWQW1gi"
 			]
 		}
 	},
