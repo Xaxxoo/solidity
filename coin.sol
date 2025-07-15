@@ -1,6 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.4;
 
+//The contract 
+
 contract Coin {
     // The keyword "public" makes variables
     // accessible from other contracts

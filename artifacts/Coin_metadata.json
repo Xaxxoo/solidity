@@ -148,11 +148,11 @@
 	},
 	"sources": {
 		"coin.sol": {
-			"keccak256": "0xb6ca2c624ec8512e601f60237c178191d34b075924030c9d3c9b51a0ef7834a6",
+			"keccak256": "0x35f610fbf29c1431091340b35913981e2b3859cbc2e9e2c725cb5b4d3f5b8fd8",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://ae735d0c27fcdf114a19575913c905af4991f8e39940a49e2cbb9b79cedd09c6",
-				"dweb:/ipfs/QmSpQpYijgMcMvMJzqWae7cSKX2eAGRqjkss8dXWMnLEWu"
+				"bzz-raw://5773647b297d158e5758360694d1f503b3de2e62923c58a884fe7e86a7525dc1",
+				"dweb:/ipfs/QmZkaf7R7Nsioe7C1USpmHf1YhyFbji66h4kZC3UenK7Bq"
 			]
 		}
 	},
